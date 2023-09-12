@@ -40,3 +40,5 @@ public class TC001 extends BaseTest {
     		 
     	 }
      }
+
+// we have to run entire project "testng.xml" file TestNG suite
